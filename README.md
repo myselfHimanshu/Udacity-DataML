@@ -1,6 +1,6 @@
-# Data Science Courseware
+# Udacity Courses
 
-This Repository consists of code and assignments of the courses under Data Science section.
+This Repository consists of code and assignments of the courses on Udacity.
 
 
 ## Courses:
