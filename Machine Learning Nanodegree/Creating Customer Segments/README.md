@@ -7,6 +7,9 @@ Most of the data one collects doesn’t necessarily fit into nice, labeled categ
 
 In this directory (`customer_segments/`), run `ipython notebook`, open `customer_segments.ipynb` and follow the instructions.
 
+<b>Code Notebook :</b>  customer_segments.ipynb <br />
+<b>Project Report Questions: </b> customer_segments.html
+
 Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
 
 ## Dataset

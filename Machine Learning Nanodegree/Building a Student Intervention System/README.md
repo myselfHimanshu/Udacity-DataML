@@ -5,6 +5,10 @@ As education has grown to rely more and more on technology, more and more data i
 ## Template code
 Open the template iPython notebook student_intervention.ipynb and follow along.
 
+<b>Code Notebook :</b>  student_intervention.ipynb <br />
+<b>Project Report Questions: </b> BuildingaStudentInterventionSystem.pdf
+
+
 ## Dataset
 Attributes for student-data.csv:
 
